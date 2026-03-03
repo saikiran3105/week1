@@ -7,5 +7,4 @@ public class DistanceConverter {
         System.out.println("The distance " + distanceinkm + " km in miles is  " + distanceinmiles);
     }
     
-
 }
